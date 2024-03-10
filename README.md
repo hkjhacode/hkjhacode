@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **ML, DL**
 
-- 📫 How to reach me **rahkj@gmail.com**
+- 📫 How to reach me **rahkj1000@gmail.com**
 
 - ⚡ Fun fact **Black holes lose mass as they spin!**
 

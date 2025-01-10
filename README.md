@@ -168,9 +168,4 @@ Here are some ideas to get you started:
   &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hkjhacode&show_icons=true&theme=dark&locale=en" alt="hkjhacode" />
 </p>
-<!--
-This is having some error 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hkjhacode" alt="hkjhacode" />
-</p>
--->
+[![GitHub Streak](https://github-readme-streak-stats-inky-sigma.vercel.app?user=hkjhacode&theme=microsoft-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)

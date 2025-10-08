@@ -58,7 +58,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krjha_harsh" height="30" width="40" />
 </a>
 
-<a href="https://medium.com/@rahkj1000" target="blank">
+<a href="https://medium.com/@hkjhacode" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rahkj1000" height="30" width="40" />
 </a>
 

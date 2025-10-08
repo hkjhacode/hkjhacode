@@ -25,17 +25,15 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/harshkumarjha_" target="blank"><img src="https://img.shields.io/twitter/follow/harshkumarjha_?logo=twitter&style=for-the-badge" alt="harshkumarjha_" /></a> </p>
 
-- 🔭 I’m currently working on **Computer Vision**
+ - 🔭 I’m currently working on Computer Vision for Medical Image Analysis using Python, OpenCV, and TensorFlow
 
-- 🌱 I’m currently learning **Frontend**
+ - 🌱 I’m currently learning Django, Flask, and Advanced Machine Learning
 
-- 👯 I’m looking to collaborate on **Game Development**
+ - 💬 Ask me about Data Science, Deep Learning, Model Optimization, and AI Projects
 
-- 💬 Ask me about **ML, DL**
+ - 📫 Reach me at ✉️ rahkj1000@gmail.com
 
-- 📫 How to reach me **rahkj1000@gmail.com**
-
-- ⚡ Fun fact **Black holes lose mass as they spin!**
+ - ⚡ Fun fact: ✨ Some AI models can DREAM — literally! They generate surreal, “dream-like” images from random noise! 🌌
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Harsh!</h1>
 <h3 align="center">A passionate developer from India</h3>
+<p align="center">
+  <p align="center">
+  <!-- <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Harsh+Kumar+Jha;A+Passionate+Developer+from+India;AI+Engineer+|+Full+Stack+Developer+|+Data+Scientist;Building+Innovative+AI+Solutions+%26+Web+Apps;Tech+Explorer+%7C+Open-Source+Contributor+%7C+Lifelong+Learner;Let's+Code+Something+Amazing!&center=true&width=900&height=45&color=F76B8A&vCenter=true&size=24&pause=1000" alt="Typing SVG" />
+</p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkjhacode&label=Profile%20views&color=0e75b6&style=plastic" alt="hkjhacode" /> </p>
 
